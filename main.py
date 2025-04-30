@@ -9,7 +9,7 @@ import customtkinter
 from datetime import datetime
 
 firebaseConfig = { 
-  "apiKey" : "AIzaSyDDZu3CHqrzCvZPEYNJWP_z014g0OhOOFw",
+  "apiKey" : "",
   "authDomain" : "banking-application-1a9d4.firebaseapp.com",
   "databaseURL" : "https://banking-application-1a9d4-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "projectId" : "banking-application-1a9d4",
